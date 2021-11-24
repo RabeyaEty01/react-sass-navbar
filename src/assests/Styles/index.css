@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Inter:wght@500&family=Jost&family=Open+Sans:wght@600&family=Poppins:ital,wght@1,400;1,500&family=Roboto:wght@700&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+  background-color: #FFFF;
+  color: #959595;
+}
+/*# sourceMappingURL=index.css.map */

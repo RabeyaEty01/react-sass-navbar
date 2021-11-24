@@ -1,0 +1,19 @@
+//colors
+$bgColor:#FFFF;
+$titleColor:#959595;
+
+//spacing
+$spacing-md:16px;
+$spacing-lg:32px;
+
+//Navbar height
+$NavbarHeight:136px;
+
+@mixin breakpoint($point) {
+    @if $point == md{
+        //768px
+        @media (min-width:48em) {
+            @content;
+        }
+    }
+}
